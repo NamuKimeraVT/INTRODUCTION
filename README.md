@@ -1,6 +1,8 @@
 # ENGLISH
 👋 Hi, I'm Namu Kimera, I'm 21 years old.
+
 👀 I am interested in manga and programming.
+
 🌱 I’m currently learning:
 
 - Animate
@@ -20,7 +22,9 @@
 # ESPAÑOL
 
 👋 Hola, soy NamuKimeraVT, tengo 21 años.
-👀 Estoy interesado en el Manga y la Programación .
+
+👀 Estoy interesado en el Manga y la Programación.
+
 🌱 Actualmente aprendo:
 
 - Animate
