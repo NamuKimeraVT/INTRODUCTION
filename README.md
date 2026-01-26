@@ -5,13 +5,16 @@
 
 🌱 I’m currently learning:
 
+- Android Studio
 - Animate
 - Blender
 - GB Studio
-- Inochi 2D
-- LMMS
+- Lay Out
+- Live2D
 - Mágica Voxel
 - SketchUp
+- Substance 3D Designer
+- Substance 3D Painter
 - ZBrush
 
 📫 How to reach me: (Namuquimera@gmail.com)
@@ -27,13 +30,16 @@
 
 🌱 Actualmente aprendo:
 
+- Android Studio
 - Animate
 - Blender
 - GB Studio
-- Inochi 2D
-- LMMS
+- Lay Out
+- Live2D
 - Mágica Voxel
 - SketchUp
+- Substance 3D Designer
+- Substance 3D Painter
 - ZBrush
 
 📫 Contacto: (Namuquimera@gmail.com)
