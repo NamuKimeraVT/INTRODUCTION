@@ -1,21 +1,19 @@
 # ENGLISH
-👋 Hi, I'm Namu Kimera, I'm 21 years old.
+👋 Hi, I'm Namu Kimera, I'm 22 years old.
 
 👀 I am interested in manga and programming.
 
 🌱 I’m currently learning:
 
-- Android Studio
-- Animate
-- Blender
+- Blackbox
+- FL Studio
+- Free Texture Packer
 - GB Studio
-- Lay Out
 - Live2D
-- Mágica Voxel
-- SketchUp
 - Substance 3D Designer
 - Substance 3D Painter
-- ZBrush
+- Toon Boom Harmony
+- VoiceWave
 
 📫 How to reach me: (Namuquimera@gmail.com)
 
@@ -24,23 +22,21 @@
 
 # ESPAÑOL
 
-👋 Hola, soy NamuKimeraVT, tengo 21 años.
+👋 Hola, soy NamuKimeraVT, tengo 22 años.
 
 👀 Estoy interesado en el Manga y la Programación.
 
 🌱 Actualmente aprendo:
 
-- Android Studio
-- Animate
-- Blender
+- Blackbox
+- FL Studio
+- Free Texture Packer
 - GB Studio
-- Lay Out
 - Live2D
-- Mágica Voxel
-- SketchUp
 - Substance 3D Designer
 - Substance 3D Painter
-- ZBrush
+- Toon Boom Harmony
+- VoiceWave
 
 📫 Contacto: (Namuquimera@gmail.com)
 
