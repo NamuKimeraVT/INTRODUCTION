@@ -7,17 +7,17 @@ I am a multidisciplinary VTuber specializing in digital illustration, concept ar
 
 🌱 I’m currently learning:
 
-- Blackbox
+- Defold
 - FL Studio
-- Free Texture Packer
 - GB Studio
 - Live2D
+- Reaper
 - Substance 3D Designer
 - Substance 3D Painter
 - Toon Boom Harmony
-- VoiceWave
 - VSee Face
 - VTube Studio
+- XD
 
 📫 How to reach me: (Namuquimera@gmail.com)
 
@@ -34,17 +34,17 @@ Soy un VTuber multidisciplinario especializado en Ilustración Digital, Arte Con
 
 🌱 Actualmente aprendo:
 
-- Blackbox
+- Defold
 - FL Studio
-- Free Texture Packer
 - GB Studio
 - Live2D
+- Reaper
 - Substance 3D Designer
 - Substance 3D Painter
 - Toon Boom Harmony
-- VoiceWave
 - VSee Face
 - VTube Studio
+- XD
 
 📫 Contacto: (Namuquimera@gmail.com)
 
