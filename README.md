@@ -1,7 +1,7 @@
 # ENGLISH
 👋 Hi, I'm Namu Kimera, I'm 22 years old.
 
-I am a multidisciplinary VTuber specializing in digital illustration, concept art, video editing, motion graphics, VFX, audio, rigging, and game development.
+I am a multidisciplinary VTuber specializing in digital illustration, concept art, video and audio editing, motion graphics, VFX, and Game and Software development.
 
 👀 I am interested in manga and Game & Software Development.
 
@@ -9,15 +9,10 @@ I am a multidisciplinary VTuber specializing in digital illustration, concept ar
 
 - Defold
 - FL Studio
-- GB Studio
 - Live2D
-- Reaper
 - Substance 3D Designer
 - Substance 3D Painter
 - Toon Boom Harmony
-- VSee Face
-- VTube Studio
-- XD
 
 📫 How to reach me: (Namuquimera@gmail.com)
 
@@ -28,7 +23,7 @@ I am a multidisciplinary VTuber specializing in digital illustration, concept ar
 
 👋 Hola, soy NamuKimeraVT, tengo 22 años.
 
-Soy un VTuber multidisciplinario especializado en Ilustración Digital, Arte Conceptual, Edición de Video, Motion Graphics, VFX, Audio, Rigging y Desarrollo de Videojuegos.
+Soy un VTuber multidisciplinario especializado en Ilustración Digital, Arte Conceptual, Edición de Video y Audio, Motion Graphics, VFX, Desarrollo de Videojuegos y Software.
 
 👀 Estoy interesado en el Manga y el Desarrollo de Videojuegos y Aplicaciones.
 
@@ -36,15 +31,10 @@ Soy un VTuber multidisciplinario especializado en Ilustración Digital, Arte Con
 
 - Defold
 - FL Studio
-- GB Studio
 - Live2D
-- Reaper
 - Substance 3D Designer
 - Substance 3D Painter
 - Toon Boom Harmony
-- VSee Face
-- VTube Studio
-- XD
 
 📫 Contacto: (Namuquimera@gmail.com)
 
